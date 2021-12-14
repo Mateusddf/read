@@ -21,8 +21,8 @@
 <a href="https://twitter.com/mateusddf" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mateusddf-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/mateus-domiciano" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-mateus-domiciano-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/mateusddf" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-mateusddf-05122A?style=flat&logo=instagram" alt="instagram"/>
